@@ -48,6 +48,10 @@ public class Main {
             } else {
                 System.out.println("Invalid key entered, please try again");
             }
+
+            System.out.println(
+                    's'
+            );
         }
     }
 }
